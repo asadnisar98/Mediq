@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+
+.searchInput {
+  display: flex !important;
+}
+.t_heaad tr .filtered {
+  cursor: pointer;
+}
+.icon_filter {
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
